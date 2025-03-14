@@ -16,4 +16,7 @@ function adicionarTarefa() {
 
     //limpa o input do usuário
     inputTarefa.value = ""
+
+    //se o valor d input fot vazio então mostre uma mensagem de erro
+    
 }
